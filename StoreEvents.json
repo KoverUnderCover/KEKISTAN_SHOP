@@ -38,372 +38,372 @@
 	{
 		"abr": "fog",
 		"price": 300,
-		"karmatype": "Neutral"
+		"karmatype": "туман"
 	},
 	{
 		"abr": "heatwave",
 		"price": 750,
-		"karmatype": "Bad"
+		"karmatype": "тепловая волна"
 	},
 	{
 		"abr": "flashstorm",
 		"price": 400,
-		"karmatype": "Bad"
+		"karmatype": "Грозовая буря"
 	},
 	{
 		"abr": "coldsnap",
 		"price": 800,
-		"karmatype": "Bad"
+		"karmatype": "похолодание"
 	},
 	{
 		"abr": "solarflare",
 		"price": 500,
-		"karmatype": "Bad"
+		"karmatype": "Солнечная вспышка"
 	},
 	{
 		"abr": "toxicfallout",
 		"price": 4200,
-		"karmatype": "Doom"
+		"karmatype": "Токсичный выброс"
 	},
 	{
 		"abr": "volcanicwinter",
 		"price": 2600,
-		"karmatype": "Doom"
+		"karmatype": "Вулканическая зима"
 	},
 	{
 		"abr": "eclipse",
 		"price": 450,
-		"karmatype": "Bad"
+		"karmatype": "Затмение"
 	},
 	{
 		"abr": "aurora",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "Северное сияние"
 	},
 	{
 		"abr": "blight",
 		"price": 700,
-		"karmatype": "Bad"
+		"karmatype": "Отрава"
 	},
 	{
 		"abr": "refugeechased",
 		"price": 650,
-		"karmatype": "Neutral"
+		"karmatype": "Беженец"
 	},
 	{
 		"abr": "animaltame",
 		"price": 150,
-		"karmatype": "Good"
+		"karmatype": "приручить животное"
 	},
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
+		"karmatype": "Контейнеры с грузом"
 	},
 	{
 		"abr": "transportpodcrash",
 		"price": 600,
-		"karmatype": "Good"
+		"karmatype": "Крушение транспорта"
 	},
 	{
 		"abr": "tradercaravan",
 		"price": 275,
-		"karmatype": "Good"
+		"karmatype": "Караван с торговцем"
 	},
 	{
 		"abr": "orbitaltraderarrival",
 		"price": 350,
-		"karmatype": "Good"
+		"karmatype": "Торговец на орбите"
 	},
 	{
 		"abr": "inspiration",
 		"price": 150,
-		"karmatype": "Good"
+		"karmatype": "Воодушевление"
 	},
 	{
 		"abr": "meteor",
 		"price": 150,
-		"karmatype": "Neutral"
+		"karmatype": "Метеор"
 	},
 	{
 		"abr": "maninblack",
 		"price": 350,
-		"karmatype": "Good"
+		"karmatype": "Человек в чёрном"
 	},
 	{
 		"abr": "madanimal",
 		"price": 600,
-		"karmatype": "Bad"
+		"karmatype": "Бешеное животное"
 	},
 	{
 		"abr": "psychicdrone",
 		"price": 400,
-		"karmatype": "Bad"
+		"karmatype": "Пси дрон"
 	},
 	{
 		"abr": "psychicsoothe",
 		"price": 250,
-		"karmatype": "Good"
+		"karmatype": "Умиротворяющий гул"
 	},
 	{
 		"abr": "ambrosiasprout",
 		"price": 150,
-		"karmatype": "Good"
+		"karmatype": "ростки амброзии"
 	},
 	{
 		"abr": "herdmigration",
 		"price": 400,
-		"karmatype": "Good"
+		"karmatype": "Стадо мигрирует"
 	},
 	{
 		"abr": "farmanimals",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "фермерские животные"
 	},
 	{
 		"abr": "wildman",
 		"price": 300,
-		"karmatype": "Good"
+		"karmatype": "дикарь"
 	},
 	{
 		"abr": "rarethrumbos",
 		"price": 500,
-		"karmatype": "Good"
+		"karmatype": "Редкий трумбо"
 	},
 	{
 		"abr": "shipchunkdrop",
 		"price": 300,
-		"karmatype": "Good"
+		"karmatype": "обломок корабля"
 	},
 	{
 		"abr": "travelergroup",
 		"price": 350,
-		"karmatype": "Good"
+		"karmatype": "группа путешественников"
 	},
 	{
 		"abr": "visitorgroup",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "гости"
 	},
 	{
 		"abr": "skillincrease",
 		"price": 200,
-		"karmatype": "Good"
+		"karmatype": "Повысить случайный навык"
 	},
 	{
 		"abr": "yorkshireterriers",
 		"price": 400,
-		"karmatype": "Good"
+		"karmatype": "Йоркширские терьеры"
 	},
 	{
 		"abr": "party",
 		"price": 400,
-		"karmatype": "Good"
+		"karmatype": "вечеринка"
 	},
 	{
 		"abr": "alphabeavers",
 		"price": 600,
-		"karmatype": "Bad"
+		"karmatype": "Альфабобры"
 	},
 	{
 		"abr": "shippartpoison",
 		"price": 1900,
-		"karmatype": "Bad"
+		"karmatype": "Ядовитый обломок"
 	},
 	{
 		"abr": "shippartpsychic",
 		"price": 2400,
-		"karmatype": "Bad"
+		"karmatype": "Пси обломок"
 	},
 	{
 		"abr": "militaryaid",
 		"price": 700,
-		"karmatype": "Good"
+		"karmatype": "Военная поддержка"
 	},
 	{
 		"abr": "raid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "рейд"
 	},
 	{
 		"abr": "dropraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "десант"
 	},
 	{
 		"abr": "sapperraid",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "рейд сапёров"
 	},
 	{
 		"abr": "siegeraid",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "осада"
 	},
 	{
 		"abr": "mechanoidraid",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "атака механоидов"
 	},
 	{
 		"abr": "infestation",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "заражение"
 	},
 	{
 		"abr": "manhunterpack",
 		"price": 1500,
-		"karmatype": "Bad"
+		"karmatype": "Охотники за головами"
 	},
 	{
 		"abr": "randomdisease",
 		"price": 1000,
-		"karmatype": "Bad"
+		"karmatype": "Случайная болезнь"
 	},
 	{
 		"abr": "disease",
 		"price": 1000,
-		"karmatype": "Bad"
+		"karmatype": "Болезнь"
 	},
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
-		"karmatype": "Good"
+		"karmatype": "Воскресить случайного поселенца"
 	},
 	{
 		"abr": "pawn",
 		"price": 1500,
-		"karmatype": "Good"
+		"karmatype": "Появиться в КЫКИСТАНЕ"
 	},
 	{
 		"abr": "animal",
 		"price": 1500,
-		"karmatype": "Good"
+		"karmatype": "Купить животное"
 	},
 	{
 		"abr": "gambleskill",
 		"price": 1500,
-		"karmatype": "Good"
+		"karmatype": "Увеличить конкретный навык"
 	},
 	{
 		"abr": "trait",
 		"price": 3500,
-		"karmatype": "Good"
+		"karmatype": "Добавить черту"
 	},
 	{
 		"abr": "removetrait",
 		"price": 5500,
-		"karmatype": "Good"
+		"karmatype": "Удалить черту"
 	},
 	{
 		"abr": "genderswap",
 		"price": 600,
-		"karmatype": "Neutral"
+		"karmatype": "Сменить пол"
 	},
 	{
 		"abr": "prisoner",
 		"price": 1000,
-		"karmatype": "Good"
+		"karmatype": "Появиться в Кыкистане как заключенный"
 	},
 	{
 		"abr": "reversetraderequest",
 		"price": 700,
-		"karmatype": "Good"
+		"karmatype": "Обратный торговый запрос"
 	},
 	{
 		"abr": "woundedcombatants",
 		"price": 1500,
-		"karmatype": "Neutral"
+		"karmatype": "Раненые комбатанты"
 	},
 	{
 		"abr": "pirateextortion",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "пиратское вымогательство"
 	},
 	{
 		"abr": "roadworks",
 		"price": 1000,
-		"karmatype": "Good"
+		"karmatype": "Дорожные работы"
 	},
 	{
 		"abr": "diplomaticmarriage",
 		"price": 1000,
-		"karmatype": "Neutral"
+		"karmatype": "ДИпломатический брак"
 	},
 	{
 		"abr": "mysticalshaman",
 		"price": 1000,
-		"karmatype": "Good"
+		"karmatype": "Мистический шаман"
 	},
 	{
 		"abr": "annualexpo",
 		"price": 1000,
-		"karmatype": "Good"
+		"karmatype": "Ежегодная выставка"
 	},
 	{
 		"abr": "peacetalks",
 		"price": 1000,
-		"karmatype": "Good"
+		"karmatype": "Мирные переговоры"
 	},
 	{
 		"abr": "piratecamp",
 		"price": 1000,
-		"karmatype": "Bad"
+		"karmatype": "Пиратский лагерь"
 	},
 	{
 		"abr": "bumpercrops",
 		"price": 1000,
-		"karmatype": "Neutral"
+		"karmatype": "небывалый урожай"
 	},
 	{
 		"abr": "hunterslodge",
 		"price": 1000,
-		"karmatype": "Neutral"
+		"karmatype": "охотничий домик"
 	},
 	{
 		"abr": "baseattack",
 		"price": 1000,
-		"karmatype": "Neutral"
+		"karmatype": "Атака на базу"
 	},
 	{
 		"abr": "supernova",
 		"price": 1500,
-		"karmatype": "Good"
+		"karmatype": "Сверхновая"
 	},
 	{
 		"abr": "superheatwave",
 		"price": 1800,
-		"karmatype": "Bad"
+		"karmatype": "Супер тепловая волна"
 	},
 	{
 		"abr": "bouldermasshit",
 		"price": 500,
-		"karmatype": "Bad"
+		"karmatype": "удар по валунной массе"
 	},
 	{
 		"abr": "leanatmosphere",
 		"price": 6000,
-		"karmatype": "Bad"
+		"karmatype": "Скудная атмосфера"
 	},
 	{
 		"abr": "icestorm",
 		"price": 2400,
-		"karmatype": "Bad"
+		"karmatype": "Ледяной шторм"
 	},
 	{
 		"abr": "heavyair",
 		"price": 6000,
-		"karmatype": "Bad"
+		"karmatype": "Тяжелый воздух"
 	},
 	{
 		"abr": "mechanoidportal",
 		"price": 3200,
-		"karmatype": "Bad"
+		"karmatype": "Портал механоидов"
 	},
 	{
 		"abr": "beetlerush",
 		"price": 12000,
-		"karmatype": "Bad"
+		"karmatype": "Рой жужжил"
 	}
 	],
 	"total": 81

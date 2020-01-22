@@ -4411,12 +4411,6 @@
 		"defname": "Shelf"
 	},
 	{
-		"abr": "стена",
-		"price": 17,
-		"category": "Uncategorized",
-		"defname": "Wall"
-	},
-	{
 		"abr": "стенныйхолод-к",
 		"price": 155,
 		"category": "Мебель",

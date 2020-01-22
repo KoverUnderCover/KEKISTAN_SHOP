@@ -272,7 +272,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Появиться в КЫКИСТАНЕ"
 	},
 	{
@@ -287,12 +287,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 1500,
 		"karmatype": "Добавить черту"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 1000,
 		"karmatype": "Удалить черту"
 	},
 	{
@@ -397,7 +397,7 @@
 	},
 	{
 		"abr": "mechanoidportal",
-		"price": 3200,
+		"price": 10000,
 		"karmatype": "Портал механоидов"
 	},
 	{

@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -27,17 +27,17 @@
 	},
 	{
 		"abr": "foggyrain",
-		"price": 300,
+		"price": 350,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "rainythunderstorm",
-		"price": 250,
+		"price": 450,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -62,7 +62,7 @@
 	},
 	{
 		"abr": "flashstorm",
-		"price": 400,
+		"price": 1200,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 8500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 6200,
 		"karmatype": "Doom"
 	},
 	{
@@ -102,12 +102,12 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -132,12 +132,12 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "maninblack",
-		"price": 650,
+		"price": 850,
 		"karmatype": "Good"
 	},
 	{
@@ -147,17 +147,17 @@
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
+		"price": 1400,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicsoothe",
-		"price": 250,
+		"price": 550,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 150,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -167,12 +167,12 @@
 	},
 	{
 		"abr": "farmanimals",
-		"price": 400,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
@@ -187,7 +187,7 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 80,
+		"price": 100,
 		"karmatype": "Good"
 	},
 	{
@@ -201,23 +201,18 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "party",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 1900,
+		"price": 5900,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2400,
+		"price": 5400,
 		"karmatype": "Bad"
 	},
 	{
@@ -227,27 +222,27 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 6500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 8000,
 		"karmatype": "Bad"
 	},
 	{
@@ -262,22 +257,22 @@
 	},
 	{
 		"abr": "predators",
-		"price": 2500,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 1000,
+		"price": 4000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 3200,
 		"karmatype": "Good"
 	},
 	{
@@ -292,23 +287,18 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1500,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -331,5 +321,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 64
 }

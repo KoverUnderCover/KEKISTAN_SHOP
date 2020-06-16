@@ -224,7 +224,7 @@
 	},
 	{
 		"abr": "ванометрическийгенератор",
-		"price": 2000,
+		"price": 5000,
 		"category": "Особое",
 		"defname": "VanometricPowerCell"
 	},
@@ -2180,7 +2180,7 @@
 	},
 	{
 		"abr": "заяц",
-		"price": 283,
+		"price": 783,
 		"category": "Animal",
 		"defname": "Hare"
 	},
@@ -2321,12 +2321,6 @@
 		"price": 917,
 		"category": "Пси-тренеры",
 		"defname": "Psytrainer_ChaosSkip"
-	},
-	{
-		"abr": "psytrainer(entropylink)",
-		"price": 667,
-		"category": "Пси-тренеры",
-		"defname": "Psytrainer_EntropyLink"
 	},
 	{
 		"abr": "psytrainer(focus)",
@@ -5588,7 +5582,7 @@
 	},
 	{
 		"abr": "storagepallet",
-		"price": 8,
+		"price": 508,
 		"category": "Мебель",
 		"defname": "MedTimes_StoragePallet"
 	},
@@ -5702,19 +5696,19 @@
 	},
 	{
 		"abr": "tailoredboots",
-		"price": 13,
+		"price": 173,
 		"category": "Footgear",
 		"defname": "MedTimes_Boots_Tailored"
 	},
 	{
 		"abr": "tailoredgloves",
-		"price": 13,
+		"price": 163,
 		"category": "Handgear",
 		"defname": "MedTimes_Gloves_Tailored"
 	},
 	{
 		"abr": "tailoredsocks",
-		"price": 2,
+		"price": 2000,
 		"category": "Footgear",
 		"defname": "MedTimes_Socks_Tailored"
 	},
@@ -7280,73 +7274,73 @@
 	},
 	{
 		"abr": "нейротренер(ближнийбой)",
-		"price": 1250,
+		"price": 1750,
 		"category": "Нейротренеры",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "нейротренер(горноедело)",
-		"price": 1250,
+		"price": 1750,
 		"category": "Нейротренеры",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "нейротренер(дальнийбой)",
-		"price": 1250,
+		"price": 1750,
 		"category": "Нейротренеры",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "нейротренер(животноводство)",
-		"price": 1250,
+		"price": 1750,
 		"category": "Нейротренеры",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "нейротренер(искусство)",
-		"price": 1250,
+		"price": 1750,
 		"category": "Нейротренеры",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "нейротренер(кулинария)",
-		"price": 1250,
+		"price": 1750,
 		"category": "Нейротренеры",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "нейротренер(медицина)",
-		"price": 1250,
+		"price": 1750,
 		"category": "Нейротренеры",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "нейротренер(общение)",
-		"price": 1250,
+		"price": 1750,
 		"category": "Нейротренеры",
 		"defname": "Neurotrainer_Social"
 	},
 	{
 		"abr": "нейротренер(растениеводство)",
-		"price": 1250,
+		"price": 1750,
 		"category": "Нейротренеры",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "нейротренер(ремесло)",
-		"price": 1250,
+		"price": 1750,
 		"category": "Нейротренеры",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "нейротренер(строительство)",
-		"price": 1250,
+		"price": 1750,
 		"category": "Нейротренеры",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "нейротренер(умственныйтруд)",
-		"price": 1250,
+		"price": 1750,
 		"category": "Нейротренеры",
 		"defname": "Neurotrainer_Intellectual"
 	},
@@ -7553,7 +7547,79 @@
 		"price": 207,
 		"category": "Головные уборы",
 		"defname": "VAE_Apparel_PlateHelmet"
-      }
-   ],
-   "total":1408
+	},
+	{
+		"abr": "ceilingfirefoampopper",
+		"price": 322,
+		"category": "Разное",
+		"defname": "FExt_CeilingFoamPopper"
+	},
+	{
+		"abr": "animusstone",
+		"price": 8333,
+		"category": "Разное",
+		"defname": "AnimusStone"
+	},
+	{
+		"abr": "drape",
+		"price": 608,
+		"category": "Мебель",
+		"defname": "Drape"
+	},
+	{
+		"abr": "meditationthrone",
+		"price": 475,
+		"category": "Мебель",
+		"defname": "Throne"
+	},
+	{
+		"abr": "prestigecataphractarmor",
+		"price": 6550,
+		"category": "Броня",
+		"defname": "Apparel_ArmorCataphractPrestige"
+	},
+	{
+		"abr": "prestigecataphracthelmet",
+		"price": 1925,
+		"category": "Головные уборы",
+		"defname": "Apparel_ArmorHelmetCataphractPrestige"
+	},
+	{
+		"abr": "prestigemarinearmor",
+		"price": 4217,
+		"category": "Armour",
+		"defname": "Apparel_ArmorMarinePrestige"
+	},
+	{
+		"abr": "prestigemarinehelmet",
+		"price": 1417,
+		"category": "Головные уборы",
+		"defname": "Apparel_ArmorMarineHelmetPrestige"
+	},
+	{
+		"abr": "prestigereconarmor",
+		"price": 3292,
+		"category": "Броня",
+		"defname": "Apparel_ArmorReconPrestige"
+	},
+	{
+		"abr": "prestigereconhelmet",
+		"price": 1192,
+		"category": "Головные уборы",
+		"defname": "Apparel_ArmorHelmetReconPrestige"
+	},
+	{
+		"abr": "psylinkneuroformer",
+		"price": 2000,
+		"category": "Предметы",
+		"defname": "PsychicAmplifier"
+	},
+	{
+		"abr": "prostheticstable",
+		"price": 358,
+		"category": "Производство",
+		"defname": "TableSyrProsthetics"
+	}
+	],
+	"total": 1419
 }

@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 3000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -72,12 +62,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shortcircuit",
-		"price": 500,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -102,7 +87,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 800,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
@@ -113,11 +98,6 @@
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "transportpodcrash",
-		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -132,13 +112,8 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 250,
+		"price": 450,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 850,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -202,7 +177,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 5000,
+		"price": 6000,
 		"karmatype": "Bad"
 	},
 	{
@@ -227,12 +202,12 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 4000,
+		"price": 8001,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 5000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -242,12 +217,12 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 8000,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 5500,
 		"karmatype": "Bad"
 	},
 	{
@@ -276,29 +251,29 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 3000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "trait",
-		"price": 1000,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -319,7 +294,117 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 800,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "passion",
+		"price": 7000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "smite",
+		"price": 2500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "sanctuary",
+		"price": 100000,
+		"karmatype": "Good"
 	}
 	],
-	"total": 64
+	"total": 81
 }

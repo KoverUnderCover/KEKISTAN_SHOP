@@ -830,7 +830,7 @@
 	},
 	{
 		"abr": "мясонасекомого",
-		"price": 1,
+		"price": 30,
 		"category": "Мясо",
 		"defname": "Meat_Megaspider"
 	},
@@ -3632,13 +3632,13 @@
 	},
 	{
 		"abr": "primitiveexplosiveammo",
-		"price": 1,
+		"price": 10,
 		"category": "Ammo",
 		"defname": "yy_ammo_primitive_fire"
 	},
 	{
 		"abr": "primitivespecialammo",
-		"price": 1,
+		"price": 10,
 		"category": "Ammo",
 		"defname": "yy_ammo_primitive_emp"
 	},
@@ -3782,7 +3782,7 @@
 	},
 	{
 		"abr": "angelmothegg(fert.)",
-		"price": 1,
+		"price": 10,
 		"category": "Яйца (опл.)",
 		"defname": "AA_AngelMothEggFertilized"
 	},
@@ -4874,7 +4874,7 @@
 	},
 	{
 		"abr": "empressbutterflyegg(fert.)",
-		"price": 1,
+		"price": 10,
 		"category": "Яйца (опл.)",
 		"defname": "AA_EmpressButterflyEggFertilized"
 	},
@@ -6404,7 +6404,7 @@
 	},
 	{
 		"abr": "rawredslime",
-		"price": 1,
+		"price": 10,
 		"category": "Растительного происхождения",
 		"defname": "AB_RawRedSlime"
 	},
